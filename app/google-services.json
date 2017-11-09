@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "779232614448",
+    "firebase_url": "https://mad-taxi.firebaseio.com",
+    "project_id": "mad-taxi",
+    "storage_bucket": "mad-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779232614448:android:a7280f7eab068e6a",
+        "android_client_info": {
+          "package_name": "com.madapps.mad_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779232614448-n19tpkd2h3vp1et4qeupr16bkujmrgaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6iLfXqRtwG6xrP1Sfii2y4LTD_TiJIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
